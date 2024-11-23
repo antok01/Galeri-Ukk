@@ -33,7 +33,7 @@
     <header class="bg-primary text-white text-center py-5">
         <div class="container">
             <h1>Welcome to the Pntzy Gallery</h1>
-            <p class="lead">Tempat mengupload kenangan kenangnan manis anda </p>
+            <p class="lead">Tempat mengupload kenangan kenangnan manis anda</p>
             <a href="login.php" class="btn btn-light btn-lg mt-3">Get Started</a>
         </div>
     </header>
